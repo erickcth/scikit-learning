@@ -1,9 +1,9 @@
-Python learning:
+# Python learning:
 Aim to get a hand of python.<br/>
 Learning Scikit, ML and some data visualisation.
 
 
-Prerequisite:
+# Prerequisite:
 Python
 Conda
 
@@ -15,7 +15,7 @@ Conda
 >
 >conda install python-graphviz
 
-Overview:
+# Overview:
 hello-world.py - first demo defining Classifier
 viz.py - demo visualising Classifier into a DecisionTree, generating the file "iris.pdf"
 
@@ -31,5 +31,5 @@ https://deeplearning.lipingyang.org/2018/12/23/anaconda-vs-miniconda-vs-virtuale
 
 
 References website:
-https://scikit-learn.org/stable/getting_started.html
+Scikit-learning: https://scikit-learn.org/stable/getting_started.html <br/>
 youtube: https://www.youtube.com/watch?v=cKxRvEZd3Mw
