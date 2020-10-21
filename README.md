@@ -15,10 +15,6 @@ Miniconda - https://docs.conda.io/en/latest/miniconda.html
 >
 >conda install python-graphviz
 
-# Overview:
-hello-world.py - first demo defining Classifier
-viz.py - demo visualising Classifier into a DecisionTree, generating the file "iris.pdf"
-
 
 Learning Notes:
 
@@ -30,6 +26,3 @@ https://deeplearning.lipingyang.org/2018/12/23/anaconda-vs-miniconda-vs-virtuale
 
 
 
-References website:
-Scikit-learning: https://scikit-learn.org/stable/getting_started.html <br/>
-youtube: https://www.youtube.com/watch?v=cKxRvEZd3Mw
