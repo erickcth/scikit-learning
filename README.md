@@ -4,8 +4,8 @@ Learning Scikit, ML and some data visualisation.
 
 
 # Prerequisite:
-Python
-Conda
+Python 3
+Miniconda - https://docs.conda.io/en/latest/miniconda.html
 
 >conda install numpy
 >
